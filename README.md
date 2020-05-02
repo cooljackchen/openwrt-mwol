@@ -41,7 +41,7 @@ most suited for your case to get it:
 Download mwol from github:
 
     # openwrt-mwol
-    git clone http://192.168.1.225:3000/mleaf/openwrt-mwol.git package/openwrt-mwol
+    git clone https://github.com/Mleaf/openwrt-mwol.git package/openwrt-mwol
 
 Install the package:
 
